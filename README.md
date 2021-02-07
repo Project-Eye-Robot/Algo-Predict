@@ -33,7 +33,7 @@ $ pip install https://github.com/leigh-johnson/Tensorflow-bin/blob/master/tensor
 $ python3 -m pip install rpi-deep-pantilt
 
 
-## TensorFlow 
+## TensorFlow Lite
 Solution 2: Choix de l'open source: **TensorFlow Lite**
 
 #### Doc d'installation
