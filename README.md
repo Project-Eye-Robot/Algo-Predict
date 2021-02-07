@@ -1,2 +1,3 @@
 # Eye-Robot : Algo-Predict
-Part 2 : Predictive Algo
+
+Choix de l'open source
