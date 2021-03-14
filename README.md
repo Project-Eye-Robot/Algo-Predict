@@ -1,6 +1,6 @@
 # Eye-Robot : Algo-Predict
 
-## TensorFlow 
+## TensorFlow Lite
 Solution 1: Choix de l'open source: **TensorFlow** 
 
 - https://www.tensorflow.org/lite
